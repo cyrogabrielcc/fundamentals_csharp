@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace TextEditor
 {
@@ -29,7 +30,18 @@ namespace TextEditor
 
         static void Open()
         {
+            Console.Clear();
+            System.Console.WriteLine("What the path? ");
+            var path = Console.ReadLine();
 
+            using(var file = new StreamReader(path))
+            {
+               string text = file.ReadToEnd();  
+               System.Console.WriteLine(text);
+            }
+            System.Console.WriteLine("");
+            Console.ReadLine();
+            Menu();
         }
 
         static void Edit()
@@ -45,10 +57,25 @@ namespace TextEditor
                 text += Console.ReadLine();
                 text += Environment.NewLine;
             }
-
             while(Console.ReadKey().Key != ConsoleKey.Escape);
             
-            Console.WriteLine(text);
+            Save(text);
         }
+    
+        static void Save(string text)
+        {
+            Console.Clear();
+            System.Console.WriteLine("where u can save this?");
+            var path = Console.ReadLine();
+            
+            using(var file = new StreamWriter(path))
+            {
+                file.Write(text);
+            }
+
+            System.Console.WriteLine($"Sucess to save in {path}");
+        }   
     }
 }
+
+//C:\Users\cyrog\Desktop\CSharpFundamentals\TextEditor
