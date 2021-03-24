@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\bin\Debug\net5.0\StopWatch.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\bin\Debug\net5.0\StopWatch.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\bin\Debug\net5.0\StopWatch.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\bin\Debug\net5.0\ref\StopWatch.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\bin\Debug\net5.0\StopWatch.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\obj\Debug\net5.0\StopWatch.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\obj\Debug\net5.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\obj\Debug\net5.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\obj\Debug\net5.0\StopWatch.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\obj\Debug\net5.0\ref\StopWatch.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\obj\Debug\net5.0\StopWatch.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\StopWatch\obj\Debug\net5.0\StopWatch.genruntimeconfig.cache
