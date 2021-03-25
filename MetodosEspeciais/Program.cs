@@ -15,9 +15,6 @@ namespace MetodosEspeciais
             Console.WriteLine(t.Replace("caju", "goiaba"));
             Console.WriteLine(t.Replace("goiabada", "bananada"));
             Console.WriteLine(t.Replace(" ", "_"));
-
-            var divisao = t.Split(" ");
-
         }
     }
 }

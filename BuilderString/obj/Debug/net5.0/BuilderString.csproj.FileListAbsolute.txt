@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\bin\Debug\net5.0\BuilderString.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\bin\Debug\net5.0\BuilderString.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\bin\Debug\net5.0\BuilderString.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\bin\Debug\net5.0\BuilderString.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\bin\Debug\net5.0\BuilderString.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\bin\Debug\net5.0\ref\BuilderString.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\bin\Debug\net5.0\BuilderString.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\obj\Debug\net5.0\BuilderString.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\obj\Debug\net5.0\BuilderString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\obj\Debug\net5.0\BuilderString.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\obj\Debug\net5.0\BuilderString.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\obj\Debug\net5.0\BuilderString.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\obj\Debug\net5.0\BuilderString.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\obj\Debug\net5.0\ref\BuilderString.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\obj\Debug\net5.0\BuilderString.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\BuilderString\obj\Debug\net5.0\BuilderString.genruntimeconfig.cache
