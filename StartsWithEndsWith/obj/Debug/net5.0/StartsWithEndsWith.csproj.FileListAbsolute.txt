@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\bin\Debug\net5.0\StartsWithEndsWith.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\bin\Debug\net5.0\StartsWithEndsWith.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\bin\Debug\net5.0\StartsWithEndsWith.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\bin\Debug\net5.0\StartsWithEndsWith.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\bin\Debug\net5.0\StartsWithEndsWith.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\bin\Debug\net5.0\ref\StartsWithEndsWith.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\bin\Debug\net5.0\StartsWithEndsWith.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\obj\Debug\net5.0\StartsWithEndsWith.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\obj\Debug\net5.0\StartsWithEndsWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\obj\Debug\net5.0\StartsWithEndsWith.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\obj\Debug\net5.0\StartsWithEndsWith.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\obj\Debug\net5.0\StartsWithEndsWith.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\obj\Debug\net5.0\StartsWithEndsWith.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\obj\Debug\net5.0\ref\StartsWithEndsWith.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\obj\Debug\net5.0\StartsWithEndsWith.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\StartsWithEndsWith\obj\Debug\net5.0\StartsWithEndsWith.genruntimeconfig.cache

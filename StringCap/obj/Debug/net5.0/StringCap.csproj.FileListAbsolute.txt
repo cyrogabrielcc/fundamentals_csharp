@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\bin\Debug\net5.0\StringCap.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\bin\Debug\net5.0\StringCap.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\bin\Debug\net5.0\StringCap.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\bin\Debug\net5.0\StringCap.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\bin\Debug\net5.0\StringCap.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\bin\Debug\net5.0\ref\StringCap.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\bin\Debug\net5.0\StringCap.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\obj\Debug\net5.0\StringCap.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\obj\Debug\net5.0\StringCap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\obj\Debug\net5.0\StringCap.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\obj\Debug\net5.0\StringCap.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\obj\Debug\net5.0\StringCap.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\obj\Debug\net5.0\StringCap.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\obj\Debug\net5.0\ref\StringCap.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\obj\Debug\net5.0\StringCap.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\StringCap\obj\Debug\net5.0\StringCap.genruntimeconfig.cache
