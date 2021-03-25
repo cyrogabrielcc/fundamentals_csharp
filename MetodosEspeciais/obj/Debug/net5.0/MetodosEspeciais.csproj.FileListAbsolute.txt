@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\bin\Debug\net5.0\MetodosEspeciais.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\bin\Debug\net5.0\MetodosEspeciais.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\bin\Debug\net5.0\MetodosEspeciais.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\bin\Debug\net5.0\MetodosEspeciais.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\bin\Debug\net5.0\MetodosEspeciais.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\bin\Debug\net5.0\ref\MetodosEspeciais.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\bin\Debug\net5.0\MetodosEspeciais.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\obj\Debug\net5.0\MetodosEspeciais.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\obj\Debug\net5.0\MetodosEspeciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\obj\Debug\net5.0\MetodosEspeciais.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\obj\Debug\net5.0\MetodosEspeciais.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\obj\Debug\net5.0\MetodosEspeciais.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\obj\Debug\net5.0\MetodosEspeciais.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\obj\Debug\net5.0\ref\MetodosEspeciais.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\obj\Debug\net5.0\MetodosEspeciais.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\MetodosEspeciais\obj\Debug\net5.0\MetodosEspeciais.genruntimeconfig.cache

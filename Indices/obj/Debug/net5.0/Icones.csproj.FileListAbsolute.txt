@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\bin\Debug\net5.0\Icones.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\bin\Debug\net5.0\Icones.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\bin\Debug\net5.0\Icones.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\bin\Debug\net5.0\Icones.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\bin\Debug\net5.0\Icones.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\bin\Debug\net5.0\ref\Icones.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\bin\Debug\net5.0\Icones.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\obj\Debug\net5.0\Icones.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\obj\Debug\net5.0\Icones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\obj\Debug\net5.0\Icones.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\obj\Debug\net5.0\Icones.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\obj\Debug\net5.0\Icones.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\obj\Debug\net5.0\Icones.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\obj\Debug\net5.0\ref\Icones.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\obj\Debug\net5.0\Icones.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\Indices\obj\Debug\net5.0\Icones.genruntimeconfig.cache

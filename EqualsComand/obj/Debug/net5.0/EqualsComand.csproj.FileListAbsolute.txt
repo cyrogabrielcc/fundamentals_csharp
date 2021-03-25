@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\bin\Debug\net5.0\EqualsComand.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\bin\Debug\net5.0\EqualsComand.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\bin\Debug\net5.0\EqualsComand.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\bin\Debug\net5.0\EqualsComand.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\bin\Debug\net5.0\EqualsComand.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\bin\Debug\net5.0\ref\EqualsComand.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\bin\Debug\net5.0\EqualsComand.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\obj\Debug\net5.0\EqualsComand.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\obj\Debug\net5.0\EqualsComand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\obj\Debug\net5.0\EqualsComand.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\obj\Debug\net5.0\EqualsComand.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\obj\Debug\net5.0\EqualsComand.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\obj\Debug\net5.0\EqualsComand.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\obj\Debug\net5.0\ref\EqualsComand.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\obj\Debug\net5.0\EqualsComand.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\EqualsComand\obj\Debug\net5.0\EqualsComand.genruntimeconfig.cache

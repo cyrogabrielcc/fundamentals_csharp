@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\bin\Debug\net5.0\SplitSubstring.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\bin\Debug\net5.0\SplitSubstring.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\bin\Debug\net5.0\SplitSubstring.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\bin\Debug\net5.0\SplitSubstring.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\bin\Debug\net5.0\SplitSubstring.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\bin\Debug\net5.0\ref\SplitSubstring.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\bin\Debug\net5.0\SplitSubstring.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\obj\Debug\net5.0\SplitSubstring.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\obj\Debug\net5.0\SplitSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\obj\Debug\net5.0\SplitSubstring.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\obj\Debug\net5.0\SplitSubstring.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\obj\Debug\net5.0\SplitSubstring.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\obj\Debug\net5.0\SplitSubstring.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\obj\Debug\net5.0\ref\SplitSubstring.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\obj\Debug\net5.0\SplitSubstring.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\SplitSubstring\obj\Debug\net5.0\SplitSubstring.genruntimeconfig.cache
