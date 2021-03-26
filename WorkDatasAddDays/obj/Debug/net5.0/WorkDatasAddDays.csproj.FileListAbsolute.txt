@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\bin\Debug\net5.0\WorkDatasAddDays.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\bin\Debug\net5.0\WorkDatasAddDays.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\bin\Debug\net5.0\WorkDatasAddDays.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\bin\Debug\net5.0\WorkDatasAddDays.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\bin\Debug\net5.0\WorkDatasAddDays.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\bin\Debug\net5.0\ref\WorkDatasAddDays.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\bin\Debug\net5.0\WorkDatasAddDays.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\obj\Debug\net5.0\WorkDatasAddDays.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\obj\Debug\net5.0\WorkDatasAddDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\obj\Debug\net5.0\WorkDatasAddDays.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\obj\Debug\net5.0\WorkDatasAddDays.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\obj\Debug\net5.0\WorkDatasAddDays.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\obj\Debug\net5.0\WorkDatasAddDays.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\obj\Debug\net5.0\ref\WorkDatasAddDays.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\obj\Debug\net5.0\WorkDatasAddDays.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatasAddDays\obj\Debug\net5.0\WorkDatasAddDays.genruntimeconfig.cache

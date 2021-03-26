@@ -6,7 +6,12 @@ namespace WorkDatasAddDays
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Clear();
+            var data = DateTime.Now;
+            Console.WriteLine(data);
+            Console.WriteLine(data.AddDays(-1));
+            Console.WriteLine(data.AddMonths(1));
+            Console.WriteLine(data.AddYears(1));
         }
     }
 }
