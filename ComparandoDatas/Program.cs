@@ -6,7 +6,17 @@ namespace ComparandoDatas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Console.Clear();
+
+
+            var data = DateTime.Now;
+
+            //nunca será igual -> por conta dos segundos e milésimos de segundo
+            if (data.Date == DateTime.Now.Date)  
+            {
+                Console.WriteLine("Igual");
+            }
+                System.Console.WriteLine(data);
         }
     }
 }
