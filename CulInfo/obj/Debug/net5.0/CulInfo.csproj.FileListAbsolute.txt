@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\obj\Debug\net5.0\CulInfo.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\obj\Debug\net5.0\CulInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\obj\Debug\net5.0\CulInfo.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\obj\Debug\net5.0\CulInfo.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\obj\Debug\net5.0\CulInfo.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\bin\Debug\net5.0\CulInfo.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\bin\Debug\net5.0\CulInfo.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\bin\Debug\net5.0\CulInfo.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\bin\Debug\net5.0\CulInfo.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\bin\Debug\net5.0\CulInfo.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\bin\Debug\net5.0\ref\CulInfo.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\bin\Debug\net5.0\CulInfo.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\obj\Debug\net5.0\CulInfo.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\obj\Debug\net5.0\ref\CulInfo.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\obj\Debug\net5.0\CulInfo.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\CulInfo\obj\Debug\net5.0\CulInfo.genruntimeconfig.cache
