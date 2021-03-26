@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WorkDatas2/1.0.0": {
+        "runtime": {
+          "WorkDatas2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkDatas2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
