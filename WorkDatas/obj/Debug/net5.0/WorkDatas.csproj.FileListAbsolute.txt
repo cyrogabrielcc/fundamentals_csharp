@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\bin\Debug\net5.0\WorkDatas.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\bin\Debug\net5.0\WorkDatas.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\bin\Debug\net5.0\WorkDatas.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\bin\Debug\net5.0\WorkDatas.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\bin\Debug\net5.0\WorkDatas.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\bin\Debug\net5.0\ref\WorkDatas.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\bin\Debug\net5.0\WorkDatas.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\obj\Debug\net5.0\WorkDatas.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\obj\Debug\net5.0\WorkDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\obj\Debug\net5.0\WorkDatas.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\obj\Debug\net5.0\WorkDatas.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\obj\Debug\net5.0\WorkDatas.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\obj\Debug\net5.0\WorkDatas.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\obj\Debug\net5.0\ref\WorkDatas.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\obj\Debug\net5.0\WorkDatas.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\WorkDatas\obj\Debug\net5.0\WorkDatas.genruntimeconfig.cache
