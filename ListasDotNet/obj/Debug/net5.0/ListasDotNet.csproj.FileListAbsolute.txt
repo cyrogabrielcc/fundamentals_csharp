@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\bin\Debug\net5.0\ListasDotNet.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\bin\Debug\net5.0\ListasDotNet.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\bin\Debug\net5.0\ListasDotNet.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\bin\Debug\net5.0\ListasDotNet.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\bin\Debug\net5.0\ListasDotNet.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\bin\Debug\net5.0\ref\ListasDotNet.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\bin\Debug\net5.0\ListasDotNet.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\obj\Debug\net5.0\ListasDotNet.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\obj\Debug\net5.0\ListasDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\obj\Debug\net5.0\ListasDotNet.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\obj\Debug\net5.0\ListasDotNet.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\obj\Debug\net5.0\ListasDotNet.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\obj\Debug\net5.0\ListasDotNet.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\obj\Debug\net5.0\ref\ListasDotNet.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\obj\Debug\net5.0\ListasDotNet.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\ListasDotNet\obj\Debug\net5.0\ListasDotNet.genruntimeconfig.cache
