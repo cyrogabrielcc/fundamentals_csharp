@@ -1,0 +1,16 @@
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\bin\Debug\net5.0\Moedas.exe
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\bin\Debug\net5.0\Moedas.deps.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\bin\Debug\net5.0\Moedas.runtimeconfig.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\bin\Debug\net5.0\Moedas.runtimeconfig.dev.json
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\bin\Debug\net5.0\Moedas.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\bin\Debug\net5.0\ref\Moedas.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\bin\Debug\net5.0\Moedas.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\obj\Debug\net5.0\Moedas.csprojAssemblyReference.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\obj\Debug\net5.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\obj\Debug\net5.0\Moedas.AssemblyInfoInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\obj\Debug\net5.0\Moedas.AssemblyInfo.cs
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\obj\Debug\net5.0\Moedas.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\obj\Debug\net5.0\Moedas.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\obj\Debug\net5.0\ref\Moedas.dll
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\obj\Debug\net5.0\Moedas.pdb
+C:\Users\cyrog\Desktop\CSharpFundamentals\Moedas\obj\Debug\net5.0\Moedas.genruntimeconfig.cache
